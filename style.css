@@ -1,0 +1,15 @@
+/* CSS style for tooltip */
+#tooltip {
+    position: absolute;
+    padding: 2px;
+    pointer-events: none;
+    border-radius: 4px;
+    box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+    font: 15px sans-serif;
+    color: #030303;
+    line-height: 1;
+    padding: 12px;
+    background: rgb(250, 247, 247);
+    color: rgb(19, 18, 18);
+    border-radius: 2px;
+}
